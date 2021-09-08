@@ -19,10 +19,14 @@ the Vt and Ca2+ signals from each ion blocked case was subtracted from the Vt an
 
 
 .. image:: https://github.com/SSCP2021-group-9/hiPSC-CMs-ionic-current-block-detecion/blob/main/img/v_control.png
-**Figure 1:** The Kvasir-SEG Dataset contains 1000 images of segmented polyps [1]
+**Figure 1:** An example of transmembrane voltage signal from a simulated cardiomyocyte without any ion channel block 
 
 .. image:: https://github.com/SSCP2021-group-9/hiPSC-CMs-ionic-current-block-detecion/blob/main/img/v_drug.png
-**Figure 2:** The Kvasir-SEG Dataset contains 1000 images of segmented polyps [1]
+**Figure 2:** An example of transmembrane voltage signal from a simulated cardiomyocyte with any ion channel block 
+
+.. image:: https://github.com/SSCP2021-group-9/hiPSC-CMs-ionic-current-block-detecion/blob/main/img/Vdrug-Vcontrol.png
+**Figure 3:** The transmembrane voltage signal from Figure 2 subtracted by the transmembrane voltage signal in Figure 1
+
 
 
 
