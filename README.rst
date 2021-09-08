@@ -12,9 +12,7 @@ Data:
 The data set (data.h5) used in this study contains 4582 cytosolic calsium (Ca2+) and transmembrane voltage (Vt) signals from a simulated cardiomyocyte (CM) without ion channel block and 4582 Ca2+ and Vt signals from CM with ion channel block. The 
 the Vt and Ca2+ signals from each ion blocked case was subtracted from the Vt and Ca2+ signals from the control case.
 
-The Kvasir-SEG dataset (size 46.2 MB) contains 1000 polyp images and their corresponding ground truth from the Kvasir Dataset v2 [1].
-The dataset amd information about the dataset can be found here:
-`https://datasets.simula.no/kvasir-seg <https://datasets.simula.no/kvasir-seg/>`_
+
 
 
 
@@ -22,6 +20,10 @@ The dataset amd information about the dataset can be found here:
 
 .. image:: https://github.com/SSCP2021-group-9/hiPSC-CMs-ionic-current-block-detecion/blob/main/img/v_control.png
 **Figure 1:** The Kvasir-SEG Dataset contains 1000 images of segmented polyps [1]
+
+.. image:: https://github.com/SSCP2021-group-9/hiPSC-CMs-ionic-current-block-detecion/blob/main/img/v_drug.png
+**Figure 2:** The Kvasir-SEG Dataset contains 1000 images of segmented polyps [1]
+
 
 
 Kvasir-Instrument Dataset
