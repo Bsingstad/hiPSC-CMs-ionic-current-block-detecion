@@ -9,9 +9,8 @@ Identifying ionic channel block in a virtual cardiomyocyte population using mach
 
 Data:
 =====
-
-Kvasir-SEG Dataset
-
+The data set (data.h5) used in this study contains 4582 cytosolic calsium (Ca2+) and transmembrane voltage (Vt) signals from a simulated cardiomyocyte (CM) without ion channel block and 4582 Ca2+ and Vt signals from CM with ion channel block. The 
+the Vt and Ca2+ signals from each ion blocked case was subtracted from the Vt and Ca2+ signals from the control case.
 
 The Kvasir-SEG dataset (size 46.2 MB) contains 1000 polyp images and their corresponding ground truth from the Kvasir Dataset v2 [1].
 The dataset amd information about the dataset can be found here:
