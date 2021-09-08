@@ -30,28 +30,8 @@ the Vt and Ca2+ signals from each ion blocked case was subtracted from the Vt an
 
 
 
-Kvasir-Instrument Dataset
-^^^^^^^^^^^^^^^^^^^^^^^^^
-The Kvasir-Instrument dataset (size 170 MB) contains 590 endoscopic tool images and their ground truth mask [2].
-The dataset amd information about the dataset can be found here:
-`https://datasets.simula.no/kvasir-instrument/ <https://datasets.simula.no/kvasir-instrument/>`_
-
-unzip the file using this command in cmd:
-
-tar -xf kvasir-instrument.tar.gz
-
-and then go to /kvasir-instrument in cmd and write following two commands:
-
-Unzip the mask folder:
-
-tar -xf masks.tar.gz
-
-Unzip the image folder:
-
-tar -xf images.tar.gz
-
-.. image:: https://datasets.simula.no/kvasir-instrument/static/images/example_1.jpg
-**Figure 2:** The Kvasir-SEG Dataset contains 590 endoscopic tool images [2]
+Jupyter Notebooks:
+==================
 
 Starter code:
 -------------
