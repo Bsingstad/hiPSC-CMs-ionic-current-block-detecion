@@ -20,7 +20,7 @@ The dataset amd information about the dataset can be found here:
 
 
 
-.. image:: https://www.nora.ai/Competition/2dadc75e-8fca-4411-88a0-65a3f1cc92be.jpeg
+.. image:: https://github.com/SSCP2021-group-9/hiPSC-CMs-ionic-current-block-detecion/blob/main/img/v_control.png
 **Figure 1:** The Kvasir-SEG Dataset contains 1000 images of segmented polyps [1]
 
 
