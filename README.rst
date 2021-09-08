@@ -1,6 +1,9 @@
-************************************************
-MedAI-Transparency-in-Medical-Image-Segmentation
-************************************************
+**************************************
+hiPSC-CMs-ionic-current-block-detecion
+**************************************
+
+Identifying ionic channel block in a virtual cardiomyocyte population using machine learning classifiers
+========================================================================================================
 
 This Github repository contains a starter code for `the Kvasir-SEG Dataset <https://datasets.simula.no/kvasir-seg/>`_ [#]_  and `the Kvasir-Instrument Dataset <https://datasets.simula.no/kvasir-instrument/>`_ [#]_
 
