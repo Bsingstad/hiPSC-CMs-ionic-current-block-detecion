@@ -3,15 +3,13 @@ hiPSC-CMs-ionic-current-block-detecion
 **************************************
 
 Identifying ionic channel block in a virtual cardiomyocyte population using machine learning classifiers
-========================================================================================================
-
-This Github repository contains a starter code for `the Kvasir-SEG Dataset <https://datasets.simula.no/kvasir-seg/>`_ [#]_  and `the Kvasir-Instrument Dataset <https://datasets.simula.no/kvasir-instrument/>`_ [#]_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Data:
 =====
 
 Kvasir-SEG Dataset
-^^^^^^^^^^^^^^^^^^
+
 
 The Kvasir-SEG dataset (size 46.2 MB) contains 1000 polyp images and their corresponding ground truth from the Kvasir Dataset v2 [1].
 The dataset amd information about the dataset can be found here:
