@@ -33,8 +33,10 @@ the Vt and Ca2+ signals from each ion blocked case was subtracted from the Vt an
 Jupyter Notebooks:
 ==================
 
-Starter code:
--------------
+Training and cross-validation:
+-----------------------------
+`https://datasets.simula.no/kvasir-instrument/ <
+https://github.com/SSCP2021-group-9/hiPSC-CMs-ionic-current-block-detecion/blob/main/classify_AP.ipynb/>`_
 The two jupyter notebooks in this repository give you a fundament for staring the development of the polyp and instrument segmentation tasks. As a baseline model we have provided a Unet build with Keras. Finally, we run the model inside a 10-fold cross-validation loop and we encourage the participants to also use som kind of resampling methods when reporting the results on the development set in the final paper to Nordic Machine Intelligence. 
 
 Run the code:
